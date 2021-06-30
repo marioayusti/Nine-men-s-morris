@@ -2,8 +2,8 @@
 
 ### Tablero
 
-![Vista Juego Inicial](docs/images/Tablero.png)
+![Tablero](docs/images/Tablero.png)
 
 ### Juego
 
-![Vista Juego Inicial](docs/images/Juego.gif)
+![Juego](docs/images/Juego.gif)
